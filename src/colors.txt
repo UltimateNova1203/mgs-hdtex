@@ -1,0 +1,4 @@
+Bright Red: b72424
+Medium Red: 7c2424
+Dark Red: 5c2424
+Background Blue: 0c3232

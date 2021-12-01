@@ -9,10 +9,8 @@ The idea here is to try to get as crisp and clean of assets as we can. Either by
 ### Text
 
 Text was upscaled 4x using nearest neighbor. This is to get the square font to look extra crispy. From there, manual pixel interpolation was done to ensure a consistent and crisp look. As for other text, they have been recreated with a matching font, see the below for additional info:
-[MISC-MGS.md](https://github.com/UltimateNova1203/mgs-hdtex/blob/master/MISC-MGS.md)
-[MISC-MGSVR.md](https://github.com/UltimateNova1203/mgs-hdtex/blob/master/MISC-MGSVR.md)
-[MISC-MGS2.md](https://github.com/UltimateNova1203/mgs-hdtex/blob/master/MISC-MGS2.md)
-[MISC-MGSTTS.md](https://github.com/UltimateNova1203/mgs-hdtex/blob/master/MISC-MGSTTS.md)
+* [MISC-MGS2.md](https://github.com/UltimateNova1203/mgs-hdtex/blob/master/MISC-MGS2.md)
+* [MISC-MGSTTS.md](https://github.com/UltimateNova1203/mgs-hdtex/blob/master/MISC-MGSTTS.md)
 
 ### Textures
 
