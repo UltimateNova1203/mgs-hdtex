@@ -3,19 +3,28 @@
 ## Colors
 
 #### Red Items
-* Foreground:   #B72424
-* Midtone:      #5C2424
-* Background:   #0C3232
+* Foreground:       #B72424
+* Midtone:          #5C2424
+* Background:       #0C3232
 
 #### Green Items
-* Foreground:   #28B4A0
-* Midtone:      #146868
-* Background:   #0F4242
-* Darktone:     #082026
+* Foreground:       #28B4A0
+* Midtone:          #146868
+* Background:       #0F4242
+* Darktone:         #082026
 
 #### Blue Items
-* Foreground:   #0884F7
-* Background:   #00425A
+* Foreground:       #0884F7
+* Background:       #00425A
+
+#### PAL Key
+* Yellow FG:        #E8AA00
+* Yellow Mid:       #C07C20
+* Blue FG:          #2086F0
+* Blue Mid:         #0850A4
+* Red FG:           #D80000
+* Red Mid:          #801212
+* Background:       #003434
 
 ## Weapons
 
@@ -76,6 +85,36 @@
 * Middle Disk:      4pt Stroke, 0pt Radius, Stroke #5C2424, Fill #0C3232
 * Outer Disk:       4pt Stroke, 0pt Radius, Stroke #5C2424, Fill #0C3232
 * Inner Flap:       3pt Stroke, 4pt Radius, Stroke #B72424, Fill #NNNNNN
+
+#### PAL (Neutral)
+* Text:             Acumin Pro, Bold, 12pt, Left, 100% Character Width, Fill #C07C20
+* Base:             4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #003434
+* Trim:             4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #C07C20
+* Top Strip:        4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #E8AA00
+* Strip Dividers:   4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #NNNNNN
+* Pins:             4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #E8AA00
+* F:                4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #E8AA00
+* Underscore:       4pt Stroke, 0pt Radius, Stroke #C07C20, Fill #E8AA00
+
+#### PAL (Cold)
+* Text:             Acumin Pro, Bold, 12pt, Left, 100% Character Width, Fill #0850A4
+* Base:             4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #003434
+* Trim:             4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #0850A4
+* Top Strip:        4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #2086F0
+* Strip Dividers:   4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #NNNNNN
+* Pins:             4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #2086F0
+* W:                4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #2086F0
+* Underscore:       4pt Stroke, 0pt Radius, Stroke #0850A4, Fill #2086F0
+
+#### PAL (Warm)
+* Text:             Acumin Pro, Bold, 12pt, Left, 100% Character Width, Fill #801212
+* Base:             4pt Stroke, 0pt Radius, Stroke #801212, Fill #003434
+* Trim:             4pt Stroke, 0pt Radius, Stroke #801212, Fill #801212
+* Top Strip:        4pt Stroke, 0pt Radius, Stroke #801212, Fill #D80000
+* Strip Dividers:   4pt Stroke, 0pt Radius, Stroke #801212, Fill #NNNNNN
+* Pins:             4pt Stroke, 0pt Radius, Stroke #801212, Fill #D80000
+* Z:                4pt Stroke, 0pt Radius, Stroke #801212, Fill #D80000
+* Underscore:       4pt Stroke, 0pt Radius, Stroke #801212, Fill #D80000
 
 #### Pentazamine
 * Text:             Acumin Pro, Bold, 12pt, Center, 70% Character Width, Fill #B72424
