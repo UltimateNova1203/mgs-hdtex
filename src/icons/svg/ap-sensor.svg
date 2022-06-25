@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="AP-Sensor" serif:id="AP Sensor">
+        <path id="Base" d="M100,44C100,42.343 101.343,41 103,41C116.499,41 171.533,41 185.01,41C186.662,41 188,42.338 188,43.99C188,59.653 188,132.142 188,147.95C188,149.635 186.635,151 184.95,151C170.43,151 109,151 109,151L100,142L100,44Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path id="Trim" d="M108,49L180,49L180,143L124,143L124,127L117,119L108,119L108,49Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path id="Screws" d="M169,56C171.209,56 173,57.791 173,60C173,62.209 171.209,64 169,64C166.791,64 165,62.209 165,60C165,57.791 166.791,56 169,56ZM119,56C121.209,56 123,57.791 123,60C123,62.209 121.209,64 119,64C116.791,64 115,62.209 115,60C115,57.791 116.791,56 119,56Z" style="fill:rgb(183,36,36);fill-rule:nonzero;"/>
+        <g transform="matrix(0.6,0,0,1,54.5678,1.7268)">
+            <text x="146.541px" y="137.525px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(183,36,36);">Personnel</text>
+        </g>
+    </g>
+</svg>

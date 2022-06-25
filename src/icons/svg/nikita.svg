@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Nikita">
+        <g id="Barrel">
+            <path d="M278,66L108,66L108,102L278,102L278,106L282,106L282,62L278,62L278,66Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M266,66L266,102" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M242,66L242,102" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M158,66L158,102" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M206,94L206,97" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Grip">
+            <path d="M154.146,154C155.071,154 155.942,153.566 156.5,152.829C157.058,152.091 157.237,151.134 156.985,150.244C153.467,138.191 147.783,126.626 140,116C135.704,110.327 144,105.946 144,102L108,102L108,122L124,122C127.643,131.098 129.601,141.718 129.945,151.053C129.988,152.691 131.328,153.996 132.966,153.996C138.066,154 148.491,154 154.146,154Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M102,134L127.5,134" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M122,122C121.928,125.006 121.219,127.649 120,130C121.028,127.41 121.157,124.753 120,122L122,122Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Front">
+            <rect x="9" y="60" width="18" height="48" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <rect x="6" y="80" width="20" height="24" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Upper-Handle" serif:id="Upper Handle">
+            <path d="M18,41.967C18,39.776 19.776,38 21.967,38L30,38L30,50L18,50L18,41.967Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <rect x="30" y="38" width="44" height="6" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Body">
+            <path d="M14,146L102,146L122,98L110,74L110,50L14,50L14,82L26,82L26,102L14,102L14,146Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M14,138L105,138" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <g transform="matrix(0.5,0,0,0.5,36,58)">
+                <circle cx="72" cy="116" r="4" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:8px;"/>
+            </g>
+            <g transform="matrix(0.5,0,0,0.5,8,22)">
+                <circle cx="72" cy="116" r="4" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:8px;"/>
+            </g>
+            <rect x="82" y="90" width="20" height="4" style="fill:rgb(92,36,36);stroke:rgb(92,36,36);stroke-width:4px;"/>
+            <path d="M18,106L38,106L36,114L20,114L18,106Z" style="fill:rgb(92,36,36);stroke:rgb(92,36,36);stroke-width:4px;"/>
+            <path d="M74,58L68,78L76,78L82,58L74,58Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M108,74L72,74" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M26,98L47,98" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M14,58L110,58" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M82,58L84,50" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Viewfinder">
+            <rect x="110" y="50" width="36" height="24" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M110,58L146,58" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M126,50L126,74" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <rect x="146" y="50" width="4" height="12" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Lower-Handle" serif:id="Lower Handle">
+            <path d="M54,78L74,78L50,146L30,146L54,78Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M33,138L51,142" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M39,137L51,103L59,105L47,139L39,137Z" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M41.821,130.7L49.134,132.568" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M48.896,109.343L56,111" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

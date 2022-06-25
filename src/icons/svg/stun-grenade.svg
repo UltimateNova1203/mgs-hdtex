@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Stun-Grenade" serif:id="Stun Grenade" transform="matrix(1,0,0,1,-2.00008,-2.84217e-14)">
+        <g id="Neck" transform="matrix(1,0,0,1,2.00008,2.84217e-14)">
+            <rect x="130" y="54" width="16" height="8" style="fill:rgb(0,66,90);stroke:rgb(8,132,247);stroke-width:2px;"/>
+        </g>
+        <g id="Head" transform="matrix(1,0,0,1,82.5098,36.5748)">
+            <path d="M46.49,19.425C45.938,19.425 45.49,18.977 45.49,18.425C45.49,16.066 45.49,10.242 45.49,8.768C45.49,8.546 45.416,8.33 45.28,8.154C44.464,7.106 41.473,3.261 39.746,1.039C39.511,0.738 39.469,0.329 39.637,-0.014C39.804,-0.357 40.153,-0.575 40.535,-0.575C48.02,-0.575 73.49,-0.575 73.49,-0.575C73.49,-0.575 81.129,13.313 83.675,17.943C83.846,18.253 83.84,18.63 83.66,18.934C83.48,19.239 83.153,19.425 82.799,19.425C76.127,19.425 51.74,19.425 46.49,19.425Z" style="fill:rgb(0,66,90);fill-rule:nonzero;stroke:rgb(8,132,247);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g id="Hinge" transform="matrix(-0.918907,-5.68348e-17,-5.62668e-17,0.928182,120.04,38)">
+            <ellipse cx="-4.31" cy="0" rx="4.353" ry="4.31" style="fill:rgb(0,66,90);stroke:rgb(0,132,247);stroke-width:2.17px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g id="Lever" transform="matrix(1,0,0,1,132.555,121.37)">
+            <path d="M-4.555,-87.37L32.445,-87.37C32.445,-87.37 42.26,-72.272 44.833,-68.312C45.234,-67.696 45.457,-66.982 45.478,-66.248C45.736,-57.336 47.445,1.63 47.445,1.63L47.314,1.63C45.709,1.63 44.389,0.367 44.317,-1.236C43.817,-12.395 42.007,-52.826 41.551,-63.022C41.486,-64.472 40.641,-65.772 39.343,-66.421C36.11,-68.038 29.91,-71.138 26.282,-72.952C25.544,-73.321 24.991,-73.977 24.752,-74.766C24.513,-75.555 24.61,-76.408 25.019,-77.124C26.139,-79.083 27.445,-81.37 27.445,-81.37C27.445,-81.37 25.413,-79.846 24.245,-78.97C23.726,-78.581 23.095,-78.37 22.445,-78.37C20.529,-78.37 16.361,-78.37 14.445,-78.37C13.893,-78.37 13.445,-78.818 13.445,-79.37C13.445,-79.981 13.445,-80.759 13.445,-81.37C13.445,-81.922 12.998,-82.37 12.445,-82.37C11.574,-82.37 10.317,-82.37 9.445,-82.37C9.18,-82.37 8.926,-82.476 8.738,-82.663C8.551,-82.851 8.445,-83.105 8.445,-83.37C8.445,-83.635 8.34,-83.89 8.152,-84.077C7.965,-84.265 7.711,-84.37 7.445,-84.37C6.387,-84.37 4.76,-84.37 3.945,-84.37C3.813,-84.37 3.686,-84.423 3.592,-84.517C3.498,-84.61 3.445,-84.738 3.445,-84.87C3.445,-85.425 3.445,-86.315 3.445,-86.87C3.445,-87.003 3.393,-87.13 3.299,-87.224C3.205,-87.318 3.078,-87.37 2.945,-87.37L-4.555,-87.37Z" style="fill:rgb(0,66,90);fill-rule:nonzero;stroke:rgb(8,132,247);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g id="Pin" transform="matrix(-1,-6.20388e-17,-6.12323e-17,1.01317,160.026,45)">
+            <ellipse cx="-1.974" cy="0" rx="1.994" ry="1.974" style="fill:rgb(0,66,90);stroke:rgb(0,132,247);stroke-width:1.99px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g id="Bottom-Edge" serif:id="Bottom Edge" transform="matrix(1,0,0,1,2.00008,-12)">
+            <path d="M109,164C109,170 106,170 106,170L170,170C170,170 167,170 167,164" style="fill:none;stroke:rgb(8,132,247);stroke-width:2px;"/>
+        </g>
+        <g id="Top-Edge" serif:id="Top Edge" transform="matrix(1,0,0,-1,2.00008,232)">
+            <path d="M109,164C109,170 106,170 106,170L170,170C170,170 167,170 167,164" style="fill:none;stroke:rgb(8,132,247);stroke-width:2px;"/>
+        </g>
+        <g id="Base" transform="matrix(1.00489,0,0,1.05329,165.461,62)">
+            <rect x="-54.196" y="-0" width="57.718" height="91.143" style="fill:rgb(0,66,90);fill-rule:nonzero;stroke:rgb(8,132,247);stroke-width:1.94px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+    </g>
+</svg>

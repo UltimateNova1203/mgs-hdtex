@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="C4">
+        <g id="Base" transform="matrix(1.34615,0,0,1.02,-148.115,-2.42)">
+            <path d="M243,78.851C243,74.515 240.337,71 237.051,71C227.051,71 206.986,71 196.971,71C195.387,71 193.869,71.83 192.749,73.308C191.629,74.786 191,76.79 191,78.88C191,97.592 191,144.526 191,163.179C191,167.498 193.653,171 196.926,171C206.919,171 227.008,171 237.03,171C238.613,171 240.132,170.17 241.251,168.692C242.371,167.215 243,165.211 243,163.121L243,78.851Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:1.67px;"/>
+        </g>
+        <g id="Label" transform="matrix(1.04762,0,0,1.02703,-78.0952,-2.27027)">
+            <path d="M233,85.986C233,84.889 232.128,84 231.053,84C224.004,84 199.862,84 192.896,84C192.393,84 191.911,84.204 191.555,84.566C191.2,84.929 191,85.421 191,85.934C191,96.354 191,145.735 191,156.092C191,157.146 191.838,158 192.871,158C199.812,158 224.054,158 231.079,158C232.14,158 233,157.123 233,156.04C233,145.59 233,96.501 233,85.986Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:1.93px;"/>
+        </g>
+        <g id="Antenna" transform="matrix(1.2,0,0,1.08696,-54,-1.73913)">
+            <rect x="160" y="20" width="10" height="46" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:1.75px;"/>
+        </g>
+        <path id="Antenna-Line" serif:id="Antenna Line" d="M138,30L150,30" style="fill:none;stroke:rgb(183,36,36);stroke-width:2px;"/>
+        <g transform="matrix(0.8,0,0,1,22.8103,1.36352)">
+            <text x="127.308px" y="117.224px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:28px;fill:rgb(183,36,36);">PE4</text>
+        </g>
+    </g>
+</svg>

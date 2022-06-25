@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Stealth">
+        <path id="Base" d="M122,134L122,142L86,142L86,150L58,150L58,146L50,146L50,126L58,126L58,110L54,110L54,98L58,98L58,74L54,74L54,62L58,62L58,50L238,50L238,62L234,62L234,110L238,110L238,122L156.575,122C154.886,122 153.225,121.57 151.749,120.749C145.287,117.16 126.735,106.853 120.261,103.256C118.778,102.432 117.11,102 115.413,102C110.51,102 99.833,102 94,102C92.939,102 91.922,102.421 91.172,103.172C90.421,103.922 90,104.939 90,106C90,114.584 90,134 90,134L122,134Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+        <path id="Stem" d="M206,138L122,138" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+        <g id="Trim">
+            <path d="M58,126L58,146" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M90,134L90,142" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M114,134L114,142" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M82,150L82,98C82,95.791 83.791,94 86,94C93.48,94 109.384,94 115.516,94C117.147,94 118.754,94.399 120.195,95.162C127.718,99.145 152,112 152,112" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M70,50L70,78L90,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M118,78L127.409,78C129.108,78 130.78,78.433 132.265,79.258C138.738,82.854 157.262,93.146 163.735,96.742C165.22,97.567 166.892,98 168.591,98L210,98" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M218,110L226,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M222,122L222,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M222,62L222,50" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M218,62L226,62" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M74,150L74,89.976C74,87.78 75.78,86 77.976,86C86.857,86 108.104,86 115.45,86C117.123,86 118.77,86.42 120.239,87.221C127.782,91.335 152.218,104.665 159.761,108.779C161.23,109.58 162.877,110 164.55,110L202,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="198" y="50" width="4" height="60" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M174,58L174,62" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M174,78L174,82" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M222,74L226,74L226,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M226,94L226,98L222,98" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="162" y="66" width="4" height="4" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="182" y="66" width="4" height="4" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="162" y="50" width="4" height="4" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="182" y="50" width="4" height="4" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M210,74L202,74" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M58,54L50,54L50,58L46,58L50,58L50,70L46,70L46,78L50,78L50,90L58,90" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="50" y="62" width="4" height="8" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M50,78L54,78L54,74L58,74L58,82L50,82L50,78Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M238,54L246,54L246,62L238,62" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <path d="M238,110L246,110L246,118L238,118" style="fill:none;stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+            <rect x="82" y="142" width="4" height="8" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:3.5px;"/>
+        </g>
+    </g>
+</svg>

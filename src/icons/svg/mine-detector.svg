@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Mine-Detector" serif:id="Mine Detector">
+        <path d="M54,58L142,58C142,58 238,60.094 238,94C238,128.045 142,130 142,130L92,130C82.983,130 74.335,126.418 67.958,120.042C61.582,113.665 58,105.017 58,96L58,78L54,78L54,58ZM86,112L80,112C77.348,112 74.804,110.946 72.929,109.071C71.054,107.196 70,104.652 70,102C70,97.01 70,90.99 70,86C70,83.348 71.054,80.804 72.929,78.929C74.804,77.054 77.348,76 80,76C83.233,76 86,76 86,76L86,112Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <g id="Trim">
+            <path d="M142,58L142,130" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M178,62L178,126" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M226,76L226,112" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <rect x="150" y="74" width="12" height="40" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <rect x="186" y="82" width="4" height="24" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M210,86L210,102L212,102C215.314,102 218,99.314 218,96L218,92C218,88.686 215.314,86 212,86L210,86Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M62,58L62,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M54,78L74,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M58,86L70,86" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M86,112L96,130" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M96,58L86,76" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M64,114L72,108" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M210,78L226,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M210,110L226,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

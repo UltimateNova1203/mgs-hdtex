@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="MO-Disk" serif:id="MO Disk">
+        <g id="Base" transform="matrix(1.00855,0,0,0.999929,-1.73504,0.0109456)">
+            <path d="M95,37L86,46L86,153C86,153.53 86.209,154.039 86.581,154.414C86.953,154.789 87.457,155 87.983,155C102.001,155 185.999,155 200.017,155C201.112,155 202,154.105 202,153C202,146.909 202,129 202,129L198,129L198,116L202,116C202,116 202.818,51.367 202.974,39.017C202.981,38.482 202.775,37.967 202.403,37.587C202.03,37.206 201.522,36.992 200.991,36.992C199.265,36.992 197.051,36.992 197.051,36.992L197.051,42L189.119,42L189.119,37L109.797,37L109.797,42L98.89,42L98.89,37L95,37Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:2.99px;"/>
+        </g>
+        <g id="Outer-Disk" serif:id="Outer Disk" transform="matrix(2.78947,0,0,2.78947,12.8947,-104.842)">
+            <circle cx="47" cy="72" r="19" style="fill:rgb(12,50,50);stroke:rgb(92,36,36);stroke-width:1.43px;"/>
+        </g>
+        <g id="Middle-Disk" serif:id="Middle Disk" transform="matrix(1.57895,0,0,1.57895,69.7895,-17.6842)">
+            <circle cx="47" cy="72" r="19" style="fill:rgb(12,50,50);stroke:rgb(92,36,36);stroke-width:2.53px;"/>
+        </g>
+        <g id="Inner-Disk" serif:id="Inner Disk" transform="matrix(0.947368,0,0,0.947368,99.4737,27.7895)">
+            <circle cx="47" cy="72" r="19" style="fill:rgb(12,50,50);stroke:rgb(92,36,36);stroke-width:4.22px;"/>
+        </g>
+        <g id="Spindle" transform="matrix(-5.08562e-19,-1,-0.991695,-5.08562e-19,144,87.933)">
+            <path d="M-8.067,-8.067C-12.485,-8.067 -16.067,-4.455 -16.067,-0C-16.067,4.455 -12.485,8.067 -8.067,8.067C-3.649,8.067 -0.067,4.455 -0.067,-0C-0.067,-4.455 -3.649,-8.067 -8.067,-8.067" style="fill:rgb(92,36,36);fill-rule:nonzero;"/>
+        </g>
+        <path id="Inner-Flap" serif:id="Inner Flap" d="M100,45L100,83C100,84.061 100.421,85.078 101.172,85.828C101.922,86.579 102.939,87 104,87L161,87C162.061,87 163.078,86.579 163.828,85.828C164.579,85.078 165,84.061 165,83C165,71.64 165,40 165,40" style="fill:none;stroke:rgb(92,36,36);stroke-width:3px;stroke-linecap:square;stroke-linejoin:miter;"/>
+        <g id="Label" transform="matrix(1,0,0,0.983051,-2,2.62712)">
+            <path d="M102,155L190,155L190,100.069C190,97.822 188.209,96 186,96C171.342,96 120.658,96 106,96C103.791,96 102,97.822 102,100.069C102,113.413 102,155 102,155Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:3.03px;"/>
+        </g>
+        <g id="Flap" transform="matrix(1,0,0,0.980392,0,0.72549)">
+            <path d="M126,37L162,37L162,83.873C162,86.152 160.188,88 157.954,88C150.996,88 136.851,88 129.956,88C127.771,88 126,86.193 126,83.964C126,71.91 126,37 126,37Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:3.03px;"/>
+        </g>
+    </g>
+</svg>

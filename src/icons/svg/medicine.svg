@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Cold-Medicine" serif:id="Cold Medicine">
+        <path id="Top-Half" serif:id="Top Half" d="M70,96C70,78.327 84.327,64 102,64C123.529,64 148,64 148,64L148,128L102,128C84.327,128 70,113.673 70,96C70,96 70,96 70,96Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:2px;"/>
+        <path id="Bottom-Half" serif:id="Bottom Half" d="M149,64L186,64C194.487,64 202.626,67.371 208.627,73.373C214.629,79.374 218,87.513 218,96L218,96C218,113.673 203.673,128 186,128L149,128L149,64Z" style="fill:rgb(92,36,36);stroke:rgb(183,36,36);stroke-width:2px;"/>
+        <g transform="matrix(-1.67999e-16,-1,1,1.07432e-16,-3.40969,-8.5547)">
+            <g transform="matrix(0.70104,0,0,1,-34.7671,0)">
+                <text x="-116.293px" y="116.162px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(183,36,36);">COLD</text>
+            </g>
+            <g transform="matrix(0.70104,0,0,1,-37.4528,0)">
+                <text x="-125.277px" y="128.144px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(183,36,36);">MEDICINE</text>
+            </g>
+        </g>
+    </g>
+</svg>

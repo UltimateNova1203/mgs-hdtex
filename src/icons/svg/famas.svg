@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 384 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Famas">
+        <g id="Grip">
+            <path id="Magazine" d="M270,94L270,150L246,142L246,94L270,94Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path id="Magazine-Trim" serif:id="Magazine Trim" d="M254,144L262,147L262,100L254,100L254,144Z" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path id="Grip1" serif:id="Grip" d="M220,98C212.884,99.056 206.872,100.946 210,106C216.585,116.64 230.06,133.534 218,142L201.5,142.5C202.672,139.23 204.023,135.98 199,132C200.187,127.035 199.333,123.051 195.5,120.5C196.901,115.562 195.254,111.96 191,109.5C192.587,105.332 190.197,102.388 186,100L220,98Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path id="Handguard" d="M156,100L173.5,136.5L189.5,142L202,142" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path id="Trigger" d="M178,118C181.942,113.715 183.871,107.653 184,100L180,100C183.055,106.906 182.253,112.873 178,118Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M200.5,107.5L192,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M204,118L196,120" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M208,130L200,132" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Receiver">
+            <g transform="matrix(0.894737,0,0,0.894737,16.8158,9.07895)">
+                <path d="M155,69L174,69C173.909,64.008 167.854,58.071 161,56C167.912,61.984 165.973,69 155,69Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4.47px;"/>
+            </g>
+            <path d="M95,47.977C95,46.923 95.419,45.911 96.165,45.165C96.911,44.419 97.923,44 98.977,44C118.307,44 205.38,44 226.945,44C229.862,44 232.352,46.109 232.831,48.987C234.003,56.018 236,68 236,68L274,104L243,115C224.147,96.189 215.971,92.142 186,100L110,100C108.575,104.445 103.191,108.045 98,108C98,108 96.513,103.043 95.633,100.109C95.213,98.71 95,97.258 95,95.798L95,47.977ZM110,70L220,70C220,70 217.66,60.642 216.56,56.239C216.231,54.923 215.048,54 213.692,54C199.921,54 128.685,54 113.04,54C112.234,54 111.461,54.32 110.89,54.89C110.32,55.46 110,56.234 110,57.04C110,61.681 110,70 110,70Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M232,78L96,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M174,94L178,102.5L170,102.5L174,94ZM126,93.75L130,102.25L122,102.25L126,93.75ZM142,93.75L146,102.25L138,102.25L142,93.75ZM158,93.75L162,102.25L154,102.25L158,93.75ZM110,93.5L114,102L106,102L110,93.5Z" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M96,86L146.012,86C147.07,86 148.084,85.58 148.832,84.832C149.58,84.084 150,83.07 150,82.012C150,82.011 150,82.011 150,82.01C150,80.946 149.578,79.927 148.826,79.175C148.073,78.422 147.054,78 145.99,78C144.893,78 144,78 144,78L154,78L153.998,78C151.79,78 150,79.79 150,81.998L150,82" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Stock">
+            <path id="Stock1" serif:id="Stock" d="M345,58L317.256,58C316.452,58 315.681,58.319 315.112,58.888C312.887,61.113 307.095,66.905 304.879,69.121C304.316,69.684 303.553,70 302.756,70C293.368,70 234,70 234,70L234,88C234,88 237.121,92.37 239.876,96.227C242.297,99.616 246.72,100.912 250.587,99.365C252.459,98.616 254,98 254,98L268,98L270,106C270,106 313.414,115.648 322.389,117.642C323.46,117.88 324.554,118 325.651,118C330.349,118 343.458,118 343.458,118L345,58Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path id="Butt" d="M346,58C347.573,60.634 350.296,65.328 351,71C352.495,83.039 352.303,99.485 351,110C350.561,113.543 345.428,116.19 344,118C337.954,114.024 337.898,61.985 346,58Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M242,69L278,69L278,78L266,90L266,100L254,100L254,90L242,78L242,69Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M234,78L340,78" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M243,114.5L247,100" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <g id="Barrel">
+            <rect x="54" y="78" width="32" height="8" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M86,78C86,76.939 86.421,75.922 87.172,75.172C87.922,74.421 88.939,74 90,74L96,74L96,90L90,90C88.939,90 87.922,89.579 87.172,88.828C86.421,88.078 86,87.061 86,86L86,78Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <g transform="matrix(1,0,0,1,7.10543e-15,2)">
+                <rect x="34" y="74" width="20" height="12" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

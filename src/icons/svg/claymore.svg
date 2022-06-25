@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Claymore">
+        <g id="Legs">
+            <path d="M195,122L195,160" style="fill:none;stroke:rgb(183,36,36);stroke-width:6px;"/>
+            <g transform="matrix(1,0,0,1,-102,0)">
+                <path d="M195,122L195,160" style="fill:none;stroke:rgb(183,36,36);stroke-width:6px;"/>
+            </g>
+        </g>
+        <g id="Base" transform="matrix(3,0,0,1.1194,-612,-8.23134)">
+            <path d="M277,52.467C277,51.282 276.824,50.146 276.512,49.308C276.199,48.471 275.775,48 275.333,48C267.719,48 236.281,48 228.667,48C228.225,48 227.801,48.471 227.488,49.308C227.176,50.146 227,51.282 227,52.467C227,64.649 227,98.351 227,110.533C227,111.718 227.176,112.854 227.488,113.692C227.801,114.529 228.225,115 228.667,115C236.281,115 267.719,115 275.333,115C275.775,115 276.199,114.529 276.512,113.692C276.824,112.854 277,111.718 277,110.533C277,98.351 277,64.649 277,52.467Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:1.77px;"/>
+        </g>
+        <g id="Front-Bands" serif:id="Front Bands">
+            <path d="M70,55L218,55" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M70,110L218,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <path id="Top" d="M102,44L184,44C184,44 175.56,43.952 174.188,38.561C173.967,37.687 173.181,37.076 172.281,37.076C169.315,37 163.878,37 161.354,37C160.536,37 159.801,36.502 159.497,35.743C159.193,34.983 158.807,34.017 158.503,33.257C158.199,32.498 157.464,32 156.646,32C151.906,32 136.094,32 131.354,32C130.536,32 129.801,32.498 129.497,33.257C129.193,34.017 128.807,34.983 128.503,35.743C128.199,36.502 127.464,37 126.646,37C123.766,37 117.024,37 113.701,37C112.774,37 111.965,37.63 111.737,38.528C110.408,44.031 102,44 102,44Z" style="fill:rgb(183,36,36);"/>
+        <g id="Top-Detail" serif:id="Top Detail" transform="matrix(1,0,0,1,0,11)">
+            <path d="M156,26.972C156,26.183 155.687,25.428 155.13,24.87C154.572,24.313 153.816,24 153.028,24L135.014,24C133.349,24 132,25.349 132,27.014C132,27.015 132,27.015 132,27.016C132,27.807 132.314,28.566 132.874,29.126C133.434,29.686 134.193,30 134.984,30C139.6,30 148.42,30 153.028,30C153.816,30 154.572,29.687 155.13,29.13C155.687,28.572 156,27.817 156,27.028L156,26.972Z" style="fill:rgb(12,50,50);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-3.8386,1.4338)">
+            <g transform="matrix(0.8,0,0,1,26.6986,0)">
+                <text x="133.493px" y="79.818px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(183,36,36);">POINT</text>
+            </g>
+            <g transform="matrix(0.8,0,0,1,21.4097,0)">
+                <text x="107.048px" y="91.818px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:12px;fill:rgb(183,36,36);">TOWARDS ENEMY</text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="PAL--Cold-" serif:id="PAL (Cold)">
+        <g id="Base" transform="matrix(0.985782,0,0,0.977778,2.62559,2.62222)">
+            <rect x="44" y="28" width="211" height="135" style="fill:rgb(0,52,52);stroke:rgb(8,80,164);stroke-width:4.07px;"/>
+        </g>
+        <path id="Trim" d="M254,150L210,150L190,162L254,162L254,150ZM54,146L58,146L58,150L54,150L54,146ZM74,142L78,142L78,146L74,146L74,142ZM74,114L78,114L78,118L74,118L74,114ZM74,98L78,98L78,102L74,102L74,98ZM74,82L78,82L78,90L74,90L74,82ZM74,70L78,70L78,74L74,74L74,70ZM74,46L78,46L78,54L74,54L74,46Z" style="fill:rgb(8,80,164);stroke:rgb(8,80,164);stroke-width:4px;"/>
+        <rect id="Top-Strip" serif:id="Top Strip" x="46" y="30" width="208" height="16" style="fill:rgb(32,134,240);stroke:rgb(8,80,164);stroke-width:4px;"/>
+        <g id="Top-Strip-Dividers" serif:id="Top Strip Dividers">
+            <path d="M70,30L70,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M82,30L82,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M98,30L98,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M106,30L106,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M118,30L118,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M130,30L130,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M146,30L146,46" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M98,38L106,38" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+            <path d="M98,42L106,42" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+        </g>
+        <path id="Pins" d="M222,114L246,114L246,130L222,130L222,114ZM222,88L246,88L246,104L222,104L222,88ZM222,62L246,62L246,78L222,78L222,62Z" style="fill:rgb(32,134,240);stroke:rgb(8,80,164);stroke-width:4px;"/>
+        <path id="Underscore" d="M146,138L202,138" style="fill:none;stroke:rgb(8,80,164);stroke-width:4px;"/>
+        <g id="W" transform="matrix(1,0,0,0.928571,0,7.42857)">
+            <path d="M140,76L154,132L162,132L174,96L186,132L194,132L208,76L200,76L189,116L178,76L171,76L159,116L148,76L140,76Z" style="fill:rgb(8,80,164);stroke:rgb(8,80,164);stroke-width:4.15px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,3,78)">
+            <text x="82px" y="74.252px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(8,80,164);">Key</text>
+        </g>
+        <g transform="matrix(1,0,0,1,3,50)">
+            <text x="82px" y="74.252px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(8,80,164);">Link</text>
+        </g>
+        <g transform="matrix(1,0,0,1,3,22)">
+            <text x="82px" y="74.252px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(8,80,164);">Action</text>
+        </g>
+        <g transform="matrix(1,0,0,1,3,-3)">
+            <text x="82px" y="74.252px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(8,80,164);">Permissive</text>
+        </g>
+    </g>
+</svg>

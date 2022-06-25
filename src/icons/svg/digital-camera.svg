@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Digital-Camera" serif:id="Digital Camera">
+        <path d="M78,58L210,58L210,130L78,130L78,58ZM162,90C162,81.163 169.163,74 178,74L178,74C186.837,74 194,81.163 194,90L194,90C194,98.837 186.837,106 178,106L178,106C169.163,106 162,98.837 162,90L162,90ZM122,82L142,82L142,70L122,70L122,82Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <rect x="78" y="58" width="132" height="12" style="fill:rgb(92,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <g transform="matrix(1,0,0,1,0,60)">
+            <rect x="78" y="58" width="132" height="12" style="fill:rgb(92,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <path d="M122,70L122,82L142,82L142,70L146,70L146,122L118,122L118,70L122,70Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M118,102L146,102" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <rect x="122" y="70" width="20" height="12" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;stroke-linejoin:miter;"/>
+        <rect x="90" y="66" width="12" height="4" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <g id="Trim">
+            <path d="M136,90C136,88.895 136.895,88 138,88C139.105,88 140,88.895 140,90C140,91.105 139.105,92 138,92C136.895,92 136,91.105 136,90L136,90Z" style="fill:rgb(183,36,36);"/>
+            <g transform="matrix(1,0,0,1,-12,4)">
+                <path d="M136,90C136,88.895 136.895,88 138,88C139.105,88 140,88.895 140,90C140,91.105 139.105,92 138,92C136.895,92 136,91.105 136,90L136,90Z" style="fill:rgb(183,36,36);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-12,20)">
+                <path d="M136,90C136,88.895 136.895,88 138,88C139.105,88 140,88.895 140,90C140,91.105 139.105,92 138,92C136.895,92 136,91.105 136,90L136,90Z" style="fill:rgb(183,36,36);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-52,20)">
+                <path d="M136,90C136,88.895 136.895,88 138,88C139.105,88 140,88.895 140,90C140,91.105 139.105,92 138,92C136.895,92 136,91.105 136,90L136,90Z" style="fill:rgb(183,36,36);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-52,-12)">
+                <path d="M136,90C136,88.895 136.895,88 138,88C139.105,88 140,88.895 140,90C140,91.105 139.105,92 138,92C136.895,92 136,91.105 136,90L136,90Z" style="fill:rgb(183,36,36);"/>
+            </g>
+        </g>
+        <path d="M154,90C154,76.745 164.745,66 178,66L178,66C191.255,66 202,76.745 202,90L202,90C202,103.255 191.255,114 178,114L178,114C164.745,114 154,103.255 154,90L154,90ZM162,90C162,81.163 169.163,74 178,74L178,74C186.837,74 194,81.163 194,90L194,90C194,98.837 186.837,106 178,106L178,106C169.163,106 162,98.837 162,90L162,90Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;stroke-linejoin:miter;"/>
+    </g>
+</svg>

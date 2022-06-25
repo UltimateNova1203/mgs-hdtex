@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Ration">
+        <g id="Base" transform="matrix(4.94368e-22,-0.967747,-0.967755,4.94368e-22,144,38.0005)">
+            <path d="M-59.932,-59.932C-93.033,-59.932 -119.866,-33.099 -119.866,0.001C-119.866,33.1 -93.033,59.932 -59.932,59.932C-26.832,59.932 0.001,33.1 0.001,0.001C0.001,-33.099 -26.832,-59.932 -59.932,-59.932" style="fill:rgb(15,66,66);fill-rule:nonzero;stroke:rgb(40,180,160);stroke-width:4.13px;"/>
+        </g>
+        <g id="Midring" transform="matrix(4.09132e-22,-0.800894,-0.800901,4.09132e-22,144,48.0004)">
+            <path d="M-59.932,-59.932C-93.033,-59.932 -119.866,-33.099 -119.866,0.001C-119.866,33.1 -93.033,59.932 -59.932,59.932C-26.832,59.932 0.001,33.1 0.001,0.001C0.001,-33.099 -26.832,-59.932 -59.932,-59.932" style="fill:rgb(15,66,66);fill-rule:nonzero;stroke:rgb(40,180,160);stroke-width:4.99px;"/>
+        </g>
+        <g id="Front-Darktone" serif:id="Front Darktone" transform="matrix(-1.03661,0,0,1.14155,116,80)">
+            <path d="M-54.022,22.776L-0.082,22.776L0,0L-54.022,0.001L-54.022,22.776Z" style="fill:rgb(8,32,38);fill-rule:nonzero;"/>
+        </g>
+        <path id="Front-Midtone" serif:id="Front Midtone" d="M160,122L128,122L128,134L160,134L160,122ZM120,114L112,114L112,118L120,118L120,114ZM164,114L176,114L176,118L164,118L164,114ZM112,76L126,76L126,80L112,80L112,76ZM132,76L176,76L176,80L132,80L132,76ZM162,60L126,60L126,72L162,72L162,60Z" style="fill:rgb(20,104,104);"/>
+        <path id="Front-Hightone" serif:id="Front Hightone" d="M154,114L158,114L158,118L154,118L154,114ZM141,114L147,114L147,118L141,118L141,114ZM126,114L138,114L138,118L126,118L126,114ZM112,106L176,106L176,110L112,110L112,106ZM175.999,84L111.999,84L111.999,102L175.999,102L175.999,84Z" style="fill:rgb(40,180,160);"/>
+    </g>
+</svg>

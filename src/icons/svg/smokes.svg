@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Smokes">
+        <rect id="Butt" x="106" y="34" width="11" height="28" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:1px;"/>
+        <g id="Base" transform="matrix(1.43636,0,0,1,-166.973,0.5)">
+            <path d="M244,64C244,62.895 243.377,62 242.608,62C234.952,62 198.048,62 190.392,62C189.623,62 189,62.895 189,64L189,155C189,156.105 189.623,157 190.392,157C198.048,157 234.952,157 242.608,157C243.377,157 244,156.105 244,155L244,64Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:2.42px;"/>
+        </g>
+        <path id="Strip" d="M105,141L183,141" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path id="Top" d="M105,63L105,82L144,96L183,82L183,63L105,63Z" style="fill:rgb(183,36,36);"/>
+        <g id="Top-Strip" serif:id="Top Strip" transform="matrix(-1,0,0,1,288,-54)">
+            <rect x="128" y="119" width="32" height="8" style="fill:rgb(12,50,50);"/>
+        </g>
+        <g transform="matrix(0.7,0,0,1,35.1134,-2.36241)">
+            <text x="113.711px" y="120.282px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:20px;fill:rgb(183,36,36);">SMOKES</text>
+        </g>
+    </g>
+</svg>

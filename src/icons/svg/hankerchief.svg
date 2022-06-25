@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Hankerchief">
+        <path d="M39.508,94.632C39.185,94.5 38.955,94.209 38.9,93.865C38.846,93.521 38.974,93.173 39.24,92.947C81.825,56.852 131.047,27.226 189.186,6.292C190.062,5.977 190.978,5.785 191.907,5.723C199.477,5.201 206.616,10.573 206,18C202.374,61.682 236.922,90.755 237.976,128.136C237.995,129.173 237.216,130.05 236.185,130.154C185.095,135.172 197.413,185.254 162,186C150.808,186.236 151.459,163.482 108.333,165.85C106.98,165.921 105.749,165.075 105.329,163.787C100.935,150.622 89.349,141.186 59.294,130.459C58.994,130.35 58.763,130.105 58.674,129.798C58.584,129.492 58.647,129.161 58.842,128.908C84.582,95.559 108.321,71.542 142,38C105.292,77.679 79.687,103.465 79.687,103.465C79.687,103.465 63.226,104.41 39.508,94.632Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M198,21C199.205,33.891 206.438,42.402 209.786,50.016" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M186,50C186.166,83.882 186.439,130.303 192,130C201.495,129.561 202.584,121.862 202,110" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M186,22C154.969,64.746 120.706,145.786 138,144C147.909,143.041 151.632,133.463 154,122" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M155,114C156.701,105.803 159.627,98.509 162,93" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M94,118C116.599,97.783 139.267,70.984 162,38C140.516,67.719 118.898,97.33 106,134" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+    </g>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 288 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Thermal-Goggles" serif:id="Thermal Goggles">
+        <path d="M133.272,134L82,134C74.574,134 67.452,131.05 62.201,125.799C56.95,120.548 54,113.426 54,106C54,106 54,106 54,106C54,98.574 56.95,91.452 62.201,86.201C67.452,80.95 74.574,78 82,78C114.886,78 169.114,78 202,78C209.426,78 216.548,80.95 221.799,86.201C227.05,91.452 230,98.574 230,106C230,106 230,106 230,106C230,113.426 227.05,120.548 221.799,125.799C216.548,131.05 209.426,134 202,134L150.728,134C157.401,130.759 162,123.916 162,116L162,116C162,104.954 153.046,96 142,96L142,96C130.954,96 122,104.954 122,116L122,116C122,123.916 126.599,130.759 133.272,134Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M106,78L106,62L122,62L122,38L126,38L126,22L134,22L134,26L150,26L150,22L158,22L158,38L162,38L162,62L178,62L178,78L106,78Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <rect x="178" y="106" width="24" height="48" style="fill:rgb(92,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <g id="Trim">
+            <g transform="matrix(4,0,0,4,-580,-340)">
+                <circle cx="193.5" cy="117.5" r="0.5" style="fill:rgb(183,36,36);"/>
+            </g>
+            <g transform="matrix(4,0,0,4,-580,-352)">
+                <circle cx="193.5" cy="117.5" r="0.5" style="fill:rgb(183,36,36);"/>
+            </g>
+            <g transform="matrix(4,0,0,4,-580,-328)">
+                <circle cx="193.5" cy="117.5" r="0.5" style="fill:rgb(183,36,36);"/>
+            </g>
+            <path d="M58,94L106,94" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M56,106L102,106" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M58,118L70,118" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M70,130L70,82" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M214,82L214,130" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M226,118L214,118" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M228,106L182,106" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M226,94L178,94" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M194,86L198,86" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M214,114L202,114" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M106,70L178,70" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M130,58L130,62" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M154,58L154,62" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M134,26L134,38" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M150,26L150,38" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M158,38L126,38" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M126,78L126,70L158,70L158,78" style="fill:rgb(183,36,36);stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M122,62L162,62" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M130,42L130,38" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+            <path d="M154,42L154,38" style="fill:none;stroke:rgb(183,36,36);stroke-width:4px;"/>
+        </g>
+        <path d="M100,116C100,92.804 118.804,74 142,74C142,74 142,74 142,74C165.196,74 184,92.804 184,116C184,116 184,116 184,116C184,139.196 165.196,158 142,158C142,158 142,158 142,158C118.804,158 100,139.196 100,116L100,116ZM122,116C122,104.954 130.954,96 142,96L142,96C153.046,96 162,104.954 162,116L162,116C162,127.046 153.046,136 142,136L142,136C130.954,136 122,127.046 122,116L122,116Z" style="fill:rgb(12,50,50);stroke:rgb(183,36,36);stroke-width:4px;"/>
+        <path d="M122,116C122,104.954 130.954,96 142,96L142,96C153.046,96 162,104.954 162,116L162,116C162,127.046 153.046,136 142,136L142,136C130.954,136 122,127.046 122,116L122,116Z" style="fill:none;stroke:rgb(183,36,36);stroke-width:8px;"/>
+    </g>
+</svg>
