@@ -1,6 +1,6 @@
 # Metal Gear Solid: HD Textures
 
-Higher quality textures for the Metal Gear Solid series. The goal is to maximize the quality of assets that the engine will allow.
+Higher quality textures for the Metal Gear Solid series. The goal is to maximize the quality of assets that the engine will allow. This is ***not*** for the Master Collection
 
 ## Methodology
 
